@@ -1,3 +1,45 @@
+⚠️ CRITICAL NOTE FOR TECHNICAL SPECIALISTS
+
+This code is a conceptual snapshot, not a production-ready solution.
+
+I am a marine engineer, not a software developer. This module was assembled through trial and error and long dialogues with various AI assistants.
+
+What this means in practice:
+
+❌ The architectural decisions are not optimal from a software engineering perspective.
+
+❌ The code contains raw, experimental solutions that could be implemented 10× more efficiently.
+
+❌ Performance and reliability were not priorities in this snapshot.
+
+But here’s what makes it valuable:
+
+✅ Proof of concept: A system built on these principles demonstrated 16 instances of complex behavior.
+
+✅ Architectural clarity: The core logic (ternarity, 27D vectors, mask evolution) is not obscured by layers of optimization.
+
+✅ A challenge: This code is a technical puzzle for someone who can recognize a brilliant but poorly implemented idea — and rewrite it properly.
+
+If all you see in this code is bad Python, this project is not for you.
+If you see a framework for an alternative AI architecture — welcome aboard.
+> **⚠️ КРИТИЧЕСКОЕ УТОЧНЕНИЕ ДЛЯ ТЕХНИЧЕСКИХ СПЕЦИАЛИСТОВ**
+>
+> **Этот код — концептуальный слепок, а не production-ready решение.**
+>
+> Я — морской инженер, а не программист. Этот модуль был собран мной **методом проб, ошибок и долгих диалогов с разными ИИ-помощниками**.
+>
+> **Что это значит на практике:**
+> - ❌ Архитектурные решения **не являются оптимальными** с точки зрения software engineering.
+> - ❌ Код содержит **сырые, экспериментальные решения**, которые могут быть реализованы в 10 раз эффективнее.
+> - ❌ Производительность и надёжность **не являются приоритетом** в этом слепке.
+>
+> **Но что в этом ценного:**
+> - ✅ **Доказательство концепции:** Система, построенная на этих принципах, **демонстрировала 16 случаев сложного поведения**.
+> - ✅ **Архитектурная чистота:** Логика (тернарность, 27D вектора, эволюция масок) **не размыта** слоями оптимизации.
+> - ✅ **Вызов:** Этот код — **техническая головоломка** для того, кто сможет увидеть в нём интересную, но ужасно реализованную идею и **переписать её правильно**.
+>
+> **Если вы видите в этом коде только плохой Python — этот проект не для вас.**  
+> **Если вы видите в нём каркас для альтернативной архитектуры ИИ — welcome aboard.**
 # 🌊 ZephyrKaa — Offline Autonomous AI System
 
 > *"Offline autonomy isn't academic theory for me — it's survival."*
